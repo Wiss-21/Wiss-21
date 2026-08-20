@@ -26,9 +26,9 @@ I turn messy, multi-table data into decisions — and ship things end to end, fr
 
 ## GitHub Stats
 
-![Wissam's GitHub stats](https://github-readme-stats-alpha-flax-20.vercel.app/api?username=Wiss-21&show_icons=true&hide_border=true&bg_color=0F1318&title_color=2DD4BF&text_color=E8ECF1&icon_color=2DD4BF)
+![Wissam's GitHub stats](https://github-stats-extended-frontend-theta-sepia.vercel.app/api?username=Wiss-21&show_icons=true&hide_border=true&bg_color=0F1318&title_color=2DD4BF&text_color=E8ECF1&icon_color=2DD4BF)
 
-![Top Languages](https://github-readme-stats-alpha-flax-20.vercel.app/api/top-langs/?username=Wiss-21&layout=compact&hide_border=true&bg_color=0F1318&title_color=2DD4BF&text_color=E8ECF1)
+![Top Languages](https://github-stats-extended-frontend-theta-sepia.vercel.app/api/top-langs/?username=Wiss-21&layout=compact&hide_border=true&bg_color=0F1318&title_color=2DD4BF&text_color=E8ECF1)
 
 ---
 
