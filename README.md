@@ -2,7 +2,7 @@
 
 **MSc Business Analytics & Data Science @ IE University**, Madrid · Data Analyst with ML depth
 
-I turn messy, multi-table data into decisions — and ship things end to end, from SQL and Python to live dashboards and deployed apps, not just notebooks. BCom in Business Technology Management (Concordia), three internships behind me, and a product in build.
+I turn messy, multi-table data into decisions and ship things end to end, from SQL and Python to live dashboards and deployed apps, not just notebooks. BCom in Business Technology Management (Concordia), three internships behind me, and a product in build.
 
 ---
 
