@@ -8,8 +8,13 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ## Tools & Skills
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Libraries**
+
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -26,9 +31,9 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ## GitHub Stats
 
-![Wissam's GitHub stats](https://github-stats-extended-frontend-theta-sepia.vercel.app/api?username=Wiss-21&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2DD4BF&text_color=1F2937&icon_color=2DD4BF&cache_seconds=1800)
+![Wissam's GitHub stats](https://github-stats-extended-frontend-theta-sepia.vercel.app/api?username=Wiss-21&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FF1F3D&text_color=1F2937&icon_color=2DD4BF&cache_seconds=1800)
 
-![Top Languages](https://github-stats-extended-frontend-theta-sepia.vercel.app/api/top-langs/?username=Wiss-21&layout=compact&hide_border=true&bg_color=ffffff&title_color=2DD4BF&text_color=1F2937&cache_seconds=1800)
+![Top Languages](https://github-stats-extended-frontend-theta-sepia.vercel.app/api/top-langs/?username=Wiss-21&layout=compact&hide_border=true&bg_color=ffffff&title_color=FF1F3D&text_color=1F2937&cache_seconds=1800)
 
 ---
 
