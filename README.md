@@ -4,6 +4,8 @@
 
 I turn messy, multi-table data into decisions and ship things end to end, from SQL and Python to live dashboards and deployed apps, not just notebooks. BCom in Business Technology Management (Concordia), three internships behind me, and Lucent, an AI screen-time coaching app, in build.
 
+**Currently building:** Lucent, an AI screen-time coaching app for iOS. The [beta experiment plan](https://lucent-nudge-wissam-ezzedine.streamlit.app/) is live now.
+
 ---
 
 ## Tools & Skills
@@ -61,5 +63,5 @@ Data Analytics · Business Intelligence · Applied Machine Learning · Football 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wissam-ezzedine)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF1F3D?style=flat&logo=netlify&logoColor=white)](https://wissam-ezzedine.netlify.app)
-[![Resume](https://img.shields.io/badge/Resume-FF1F3D?style=flat&logoColor=white)](https://wissam-ezzedine.netlify.app/Wissam-Ezzedine-CV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-FF1F3D?style=flat&logoColor=white)](https://github.com/Wiss-21/Wiss-21/raw/main/Wissam-Ezzedine-CV.pdf)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:wissamezzedine123@outlook.com)
