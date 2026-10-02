@@ -4,11 +4,11 @@
 
 I turn messy, multi-table data into decisions and ship things end to end, from SQL and Python to live dashboards and deployed apps, not just notebooks. BCom in Business Technology Management (Concordia), three internships behind me, and Lucent, an AI screen-time coaching app, in build.
 
-**Currently building:** Lucent, an AI screen-time coaching app for iOS. The [beta experiment plan](https://lucent-nudge-wissam-ezzedine.streamlit.app/) is live now.
+🚧 **Currently building:** Lucent, an AI screen-time coaching app for iOS. The [beta experiment plan](https://lucent-nudge-wissam-ezzedine.streamlit.app/) is live now.
 
 ---
 
-## Pinned
+## 📌 Pinned
 
 - **[Lucent Nudge Experiment](https://github.com/Wiss-21/lucent-nudge-experiment):** power-analysis tool planning the beta for my iOS app. [Live app](https://lucent-nudge-wissam-ezzedine.streamlit.app/).
 - **[Olist Review Risk](https://github.com/Wiss-21/olist-review-dashboard):** LightGBM review-risk model on 94k orders, deployed as a Streamlit app. [Live app](https://olist-review-wissam.streamlit.app).
@@ -16,7 +16,7 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ---
 
-## Tools & Skills
+## 🛠️ Tools & Skills
 
 **Languages**
 
@@ -43,15 +43,15 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Wissam's GitHub stats](https://github-stats-extended-frontend-theta-sepia.vercel.app/api?username=Wiss-21&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FF1F3D&text_color=1F2937&icon_color=FF1F3D&cache_seconds=1800)
 
-![Top Languages](https://github-stats-extended-frontend-theta-sepia.vercel.app/api/top-langs/?username=Wiss-21&layout=compact&hide_border=true&bg_color=ffffff&title_color=FF1F3D&text_color=1F2937&cache_seconds=1800)
+![Top Languages](https://github-stats-extended-frontend-theta-sepia.vercel.app/api/top-langs/?username=Wiss-21&layout=pie&hide_border=true&bg_color=ffffff&title_color=FF1F3D&text_color=1F2937&cache_seconds=1800)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 [![Lucent Nudge Experiment: beta power-analysis tool](nudge-lab-preview.jpg)](https://lucent-nudge-wissam-ezzedine.streamlit.app/)
 
@@ -63,11 +63,11 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ---
 
-## Interests
+## 🎯 Interests
 
 Data Analytics · Business Intelligence · Applied Machine Learning · Football Analytics · Behavior-change products
 
-## Connect
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wissam-ezzedine)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF1F3D?style=flat&logo=netlify&logoColor=white)](https://wissam-ezzedine.netlify.app)
