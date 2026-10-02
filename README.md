@@ -10,11 +10,11 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ## 📌 Pinned
 
-[![Lucent Nudge Experiment: beta power-analysis tool](nudge-lab-preview.jpg)](https://lucent-nudge-wissam-ezzedine.streamlit.app/)
+<a href="https://lucent-nudge-wissam-ezzedine.streamlit.app/"><img src="nudge-lab-preview.jpg" alt="Lucent Nudge Experiment: beta power-analysis tool" width="600"></a>
 
 - **[Lucent Nudge Experiment](https://github.com/Wiss-21/lucent-nudge-experiment):** power-analysis tool planning the beta for my iOS app. [Live app](https://lucent-nudge-wissam-ezzedine.streamlit.app/).
 - **[Olist Review Risk](https://github.com/Wiss-21/olist-review-dashboard):** LightGBM review-risk model on 94k orders, deployed as a Streamlit app. [Live app](https://olist-review-wissam.streamlit.app).
-- **[Europe's Top 5 Leagues](https://github.com/Wiss-21/top5-leagues-dashboard):** interactive Tableau dashboard on data I pulled myself from the Football-Data.org REST API. [Live dashboard](https://public.tableau.com/views/EuropesTop5Leagues202324/Rankings).
+- **[Madrid Airbnb](https://github.com/Wiss-21/madrid-airbnb-sql):** SQL deep-dive on 23k listings + 8.4M calendar rows in DuckDB (CTEs, window functions).
 
 ---
 
@@ -55,7 +55,7 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ## 📂 More Projects
 
-- **[Madrid Airbnb](https://github.com/Wiss-21/madrid-airbnb-sql):** SQL deep-dive on 23k listings + 8.4M calendar rows in DuckDB (CTEs, window functions).
+- **[Europe's Top 5 Leagues](https://github.com/Wiss-21/top5-leagues-dashboard):** interactive Tableau dashboard on data I pulled myself from the Football-Data.org REST API. [Live dashboard](https://public.tableau.com/views/EuropesTop5Leagues202324/Rankings).
 - **[Cars 2025](https://github.com/Wiss-21/cars-2025-analysis):** EDA on 1,218 2025-model vehicles: electrification mix, performance baselines, and outlier analysis across manufacturers.
 
 ---
