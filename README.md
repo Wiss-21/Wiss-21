@@ -26,20 +26,20 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ## GitHub Stats
 
-![Wissam's GitHub stats](https://github-stats-extended-frontend-theta-sepia.vercel.app/api?username=Wiss-21&show_icons=true&hide_border=true&bg_color=0F1318&title_color=2DD4BF&text_color=E8ECF1&icon_color=2DD4BF)
+![Wissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiss-21&show_icons=true&hide_border=true&bg_color=0F1318&title_color=2DD4BF&text_color=E8ECF1&icon_color=2DD4BF&cache_seconds=1800)
 
-![Top Languages](https://github-stats-extended-frontend-theta-sepia.vercel.app/api/top-langs/?username=Wiss-21&layout=compact&hide_border=true&bg_color=0F1318&title_color=2DD4BF&text_color=E8ECF1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiss-21&layout=compact&hide_border=true&bg_color=0F1318&title_color=2DD4BF&text_color=E8ECF1&cache_seconds=1800)
 
 ---
 
 ## Featured Projects
 
-[![Europe's Top 5 Leagues — interactive Tableau dashboard](top5-preview.png)](https://public.tableau.com/views/EuropesTop5Leagues202324/Rankings)
+[![Europe's Top 5 Leagues: interactive Tableau dashboard](top5-preview.png)](https://public.tableau.com/views/EuropesTop5Leagues202324/Rankings)
 
-- **[Europe's Top 5 Leagues](https://github.com/Wiss-21/top5-leagues-dashboard)** — interactive Tableau dashboard on data I pulled myself from the Football-Data.org REST API. — [live dashboard](https://public.tableau.com/views/EuropesTop5Leagues202324/Rankings)
-- **[Olist Review Risk](https://github.com/Wiss-21/olist-review-dashboard)** — end-to-end Streamlit app on 94k orders with a LightGBM review-risk model. — [live app](https://olist-review-wissam.streamlit.app)
-- **[Madrid Airbnb](https://github.com/Wiss-21/madrid-airbnb-sql)** — SQL deep-dive on 23k listings + 8.4M calendar rows in DuckDB (CTEs, window functions).
-- **[Cars 2025](https://github.com/Wiss-21/cars-2025-analysis)** — full EDA and feature engineering on the 2025 car market.
+- **[Europe's Top 5 Leagues](https://github.com/Wiss-21/top5-leagues-dashboard):** interactive Tableau dashboard on data I pulled myself from the Football-Data.org REST API. [Live dashboard](https://public.tableau.com/views/EuropesTop5Leagues202324/Rankings).
+- **[Olist Review Risk](https://github.com/Wiss-21/olist-review-dashboard):** end-to-end Streamlit app on 94k orders with a LightGBM review-risk model. [Live app](https://olist-review-wissam.streamlit.app).
+- **[Madrid Airbnb](https://github.com/Wiss-21/madrid-airbnb-sql):** SQL deep-dive on 23k listings + 8.4M calendar rows in DuckDB (CTEs, window functions).
+- **[Cars 2025](https://github.com/Wiss-21/cars-2025-analysis):** EDA on 1,218 2025-model vehicles: electrification mix, performance baselines, and outlier analysis across manufacturers.
 
 ---
 
