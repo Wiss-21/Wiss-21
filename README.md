@@ -2,7 +2,7 @@
 
 **MSc Business Analytics & Data Science @ IE University**, Madrid · Data Analyst with ML depth
 
-I turn messy, multi-table data into decisions and ship things end to end, from SQL and Python to live dashboards and deployed apps, not just notebooks. BCom in Business Technology Management (Concordia), three internships behind me, and Lucent, an AI screen-time coaching app, in build.
+I turn messy, multi-table data into decisions and ship things end to end, from SQL and Python to live dashboards and deployed apps, not just notebooks. BCom in Business Technology Management (Concordia), three internships behind me, and a product currently in build.
 
 🚧 **Currently building:** Lucent, an AI screen-time coaching app for iOS. The [beta experiment plan](https://lucent-nudge-wissam-ezzedine.streamlit.app/) is live now.
 
