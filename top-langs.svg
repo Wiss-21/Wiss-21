@@ -1,0 +1,28 @@
+<svg width="400" height="140" viewBox="0 0 400 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most Used Languages: Jupyter Notebook 67.43 percent, Swift 29.96 percent, Python 2.61 percent">
+  <style>
+    .title { font: 600 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #FF1F3D; }
+    .label { font: 400 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #1F2937; }
+  </style>
+
+  <text x="20" y="28" class="title">Most Used Languages</text>
+
+  <defs>
+    <clipPath id="barClip">
+      <rect x="20" y="42" width="360" height="10" rx="5" ry="5"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#barClip)">
+    <rect x="20" y="42" width="241" height="10" fill="#FF1F3D"/>
+    <rect x="262" y="42" width="107" height="10" fill="#1F2937"/>
+    <rect x="370" y="42" width="10" height="10" fill="#3B82F6"/>
+  </g>
+
+  <circle cx="25" cy="77" r="5" fill="#FF1F3D"/>
+  <text x="37" y="81" class="label">Jupyter Notebook 67.43%</text>
+
+  <circle cx="25" cy="102" r="5" fill="#1F2937"/>
+  <text x="37" y="106" class="label">Swift 29.96%</text>
+
+  <circle cx="25" cy="127" r="5" fill="#3B82F6"/>
+  <text x="37" y="131" class="label">Python 2.61%</text>
+</svg>
