@@ -8,6 +8,14 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ---
 
+## Pinned
+
+- **[Lucent Nudge Experiment](https://github.com/Wiss-21/lucent-nudge-experiment):** power-analysis tool planning the beta for my iOS app. [Live app](https://lucent-nudge-wissam-ezzedine.streamlit.app/).
+- **[Olist Review Risk](https://github.com/Wiss-21/olist-review-dashboard):** LightGBM review-risk model on 94k orders, deployed as a Streamlit app. [Live app](https://olist-review-wissam.streamlit.app).
+- **[Europe's Top 5 Leagues](https://github.com/Wiss-21/top5-leagues-dashboard):** interactive Tableau dashboard on data I pulled myself from the Football-Data.org REST API. [Live dashboard](https://public.tableau.com/views/EuropesTop5Leagues202324/Rankings).
+
+---
+
 ## Tools & Skills
 
 **Languages**
