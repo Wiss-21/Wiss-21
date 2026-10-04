@@ -6,6 +6,8 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 🚧 **Currently building:** Lucent, an AI screen-time coaching app for iOS. The [beta experiment plan](https://lucent-nudge-wissam-ezzedine.streamlit.app/) is live now.
 
+🌱 **Open source:** my first PR is open on [JupyterLab](https://github.com/jupyterlab/jupyterlab/pull/19976) — docs on how notebook links resolve.
+
 ---
 
 ## 📌 Pinned
