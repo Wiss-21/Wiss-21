@@ -49,7 +49,7 @@ I turn messy, multi-table data into decisions and ship things end to end, from S
 
 ## 📊 GitHub Stats
 
-![Wissam's GitHub stats](https://github-stats-extended-frontend-theta-sepia.vercel.app/api?username=Wiss-21&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FF1F3D&text_color=1F2937&icon_color=FF1F3D&cache_seconds=1800)
+![Wissam's GitHub stats](https://github-stats-extended-frontend-theta-sepia.vercel.app/api?username=Wiss-21&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FF1F3D&text_color=1F2937&icon_color=FF1F3D&include_all_commits=true&cache_seconds=1800)
 
 ![Top Languages](top-langs.svg)
 
